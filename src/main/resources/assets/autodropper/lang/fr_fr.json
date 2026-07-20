@@ -1,0 +1,17 @@
+{
+  "key.categories.autodropper": "Auto Dropper",
+  "key.autodropper.menu": "Ouvrir le menu Auto Dropper",
+  "key.autodropper.toggle": "Activer/désactiver l'Auto Dropper (touche par défaut, à définir dans le menu)",
+
+  "autodropper.gui.title": "Configuration - Auto Dropper",
+  "autodropper.gui.activation_key": "Touche d'activation : %s",
+  "autodropper.gui.press_a_key": "Appuie sur une touche...",
+  "autodropper.gui.interval": "Intervalle (en secondes) : %s",
+  "autodropper.gui.enabled_yes": "État actuel : Activé",
+  "autodropper.gui.enabled_no": "État actuel : Désactivé",
+  "autodropper.gui.save": "Sauvegarder et quitter",
+  "autodropper.gui.cancel": "Annuler",
+
+  "autodropper.chat.enabled": "§aAuto Dropper §factivé (toutes les %s s)",
+  "autodropper.chat.disabled": "§cAuto Dropper §fdésactivé"
+}

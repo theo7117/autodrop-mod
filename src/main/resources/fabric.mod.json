@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "autodropper",
+  "version": "${version}",
+  "name": "Auto Dropper",
+  "description": "Ouvre un menu (touche configurable) pour définir une touche d'activation et un minuteur : une fois activé, le mod lâche automatiquement l'objet tenu en main à intervalle régulier.",
+  "authors": [
+    "Toi"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.autodropper.AutoDropperClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "1.21.4",
+    "java": ">=21"
+  }
+}
